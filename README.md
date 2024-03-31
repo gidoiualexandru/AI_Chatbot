@@ -1,6 +1,6 @@
 # AI Chat_Bot
 
-![Screenshot of the AI-Powered App](./src/assets/demo.png)
+![Screenshot of the AI-Powered App](./src/assets/Demo.png)
 
 This is a AI powered chatbot who has the abillity to use speech-to-text, answer normal text questions, answer questions about a provided image, transcript audio files etc.
 
