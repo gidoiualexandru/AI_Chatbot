@@ -1,4 +1,4 @@
-# AI Chat_Bot
+# AI Chatbot
 
 ![Screenshot of the AI-Powered App](./src/assets/Demo.png)
 
